@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/resume_vaisakh/static/css/main.3bbaa215.css",
+    "main.js": "/resume_vaisakh/static/js/main.8af22f78.js",
+    "index.html": "/resume_vaisakh/index.html",
+    "main.3bbaa215.css.map": "/resume_vaisakh/static/css/main.3bbaa215.css.map",
+    "main.8af22f78.js.map": "/resume_vaisakh/static/js/main.8af22f78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bbaa215.css",
+    "static/js/main.8af22f78.js"
+  ]
+}
